@@ -90,6 +90,7 @@ Here are some other resources that I used in figuring some of this out.
 ### Linux setup
 
 https://github.com/kszere/Linux-For-CHUWI-HiBook-Pro - Work In Progress
+
 https://github.com/Split7fire/linux_on_chuwi_hibook
 
 #### Linux on other Chuwi devices
@@ -97,7 +98,9 @@ https://github.com/Split7fire/linux_on_chuwi_hibook
 The hardware for some other Chuwi devices like the Hi10 is similar to the HiBook Pro and these links helped me in figuring out some things like the touchscreen firmware/driver settings.
 
 https://github.com/onitake/gslx680-acpi/issues/20
+
 https://txlab.wordpress.com/2017/03/11/running-ubuntu-on-chuwi-hi10-pro-tablet/
+
 https://jonathansblog.co.uk/ubuntu-on-the-chuwi-hi10-pro
 
 
