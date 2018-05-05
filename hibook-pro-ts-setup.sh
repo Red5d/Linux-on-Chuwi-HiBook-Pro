@@ -4,7 +4,7 @@
 
 # Update and install dependencies
 sudo apt update
-sudo apt install python3-numpy python3-tk
+sudo apt install -y python3-numpy python3-tk
 
 # Get touchscreen calibration script
 wget https://github.com/reinderien/xcal/raw/master/xcal
