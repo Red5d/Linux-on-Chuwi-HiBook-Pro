@@ -7,7 +7,7 @@ WiFi works perfectly out-of-the-box.
 Things that don't work out-of-the-box:
 * Touchscreen - working with the method below
 * Bluetooth - In progress... Testing some drivers.
-* Audio - Headphone jack and built-in microphone work after blacklisting the blacklist snd_hdmi_lpe_audio module.
+* Audio - Headphone jack and built-in microphone work after blacklisting the snd_hdmi_lpe_audio module.
 * Cameras - TBD
 
 The accelerometer that controls screen rotation partially works. In landscape orientation, it flips the screen upside down. Portrait mode is rotated correctly though. As a workaround for landscape, hold the screen with the top edge facing the floor so it rotates "correctly", then click the rotation lock button from the upper-right dropdown menu and you can bring it right-side up again and it will stay that way.
