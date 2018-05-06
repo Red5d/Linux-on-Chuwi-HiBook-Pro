@@ -78,6 +78,12 @@ Discussion about Linux Wifi/Bluetooth/Audio drivers for the similar Chuwi vi8 de
 
 ## Audio
 
+The headphone jack and microphone work if you blacklist the "snd_hdmi_lpe_audio" module.
+
+Add the following to /etc/modprobe.d/blacklist.conf (create the file if it doesn't exist)
+
+    blacklist snd_hdmi_lpe_audio
+
 ## Accelerometer
 
 This "sensor-proxy" tool might be able to fix the auto screen rotation issue mentioned above: https://github.com/hadess/iio-sensor-proxy
